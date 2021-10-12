@@ -1,0 +1,13 @@
+﻿  소스.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\limits.h(70,5): warning C4668: '__STDC_WANT_SECURE_LIB__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(162,5): warning C4365: '인수': 'long'에서 'unsigned int'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(172,5): warning C4365: '인수': 'long'에서 'unsigned int'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\atomic(292,9): warning C4365: '인수': 'long'에서 'unsigned int'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\atomic(308,9): warning C4365: '인수': 'long'에서 'unsigned int'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\atomic(325,9): warning C4365: '인수': 'long'에서 'unsigned int'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\atomic(388,9): warning C4365: '인수': 'long'에서 'unsigned int'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+D:\BOJ\[BOJ] 23056번_참가자 명단\소스.cpp(9,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Student' 왼쪽은 무시됩니다.
+D:\BOJ\[BOJ] 23056번_참가자 명단\소스.cpp(47): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  D:\BOJ\[BOJ] 23056번_참가자 명단\소스.cpp(44) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'j' 범위
+  D:\BOJ\[BOJ] 23056번_참가자 명단\소스.cpp(47) : 참고: 이 줄에서 호출 피드
+  [BOJ] 23056번_참가자 명단.vcxproj -> D:\BOJ\[BOJ] 23056번_참가자 명단\Debug\[BOJ] 23056번_참가자 명단.exe

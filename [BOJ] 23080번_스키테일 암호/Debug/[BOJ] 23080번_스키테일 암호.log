@@ -1,0 +1,4 @@
+﻿  소스.cpp
+D:\BOJ\[BOJ] 23080번_스키테일 암호\소스.cpp(13,20): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\BOJ\[BOJ] 23080번_스키테일 암호\소스.cpp(8,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  [BOJ] 23080번_스키테일 암호.vcxproj -> D:\BOJ\[BOJ] 23080번_스키테일 암호\Debug\[BOJ] 23080번_스키테일 암호.exe

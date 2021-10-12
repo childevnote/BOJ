@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\BOJ\[BOJ]_9012_Parentheses\main.cpp(40,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\BOJ\[BOJ]_9012_Parentheses\main.cpp(50): warning C4715: 'Func': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  [BOJ]_9012_Parentheses.vcxproj -> D:\BOJ\[BOJ]_9012_Parentheses\Debug\[BOJ]_9012_Parentheses.exe

@@ -1,0 +1,6 @@
+﻿  Queue.c
+D:\BOJ\Queue\Queue.c(73,14): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\BOJ\Queue\Queue.c(68,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BOJ\Queue\Queue.c(72,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BOJ\Queue\Queue.c(76,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Queue.vcxproj -> D:\BOJ\Queue\Debug\Queue.exe

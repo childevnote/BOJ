@@ -1,0 +1,2 @@
+G:\BOJ\Queue\Debug\Queue.exe
+D:\BOJ\Queue\Debug\Queue.exe
