@@ -5,7 +5,7 @@ def solution():
         if s[i] != s[i-1]:
             answer.append(s[i-1])
 
-    if s[-1] != answer[-1]:
+    if answer and s[-1] != answer[-1]:
         answer.append(s[-1])
 
     print(min(answer.count('0'), answer.count('1')))
