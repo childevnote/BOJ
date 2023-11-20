@@ -2,7 +2,7 @@
 def solution():
     n = int(input())
     tc = [int(input()) for _ in range(n)]
-    triangular = [int(i * (i + 1) / 2) for i in range(1, 45)]
+    triangular = [int(i * (i + 1) / 2) for i in range(1, 40)]
 
     for i in range(len(tc)):
         eureka = 0
